@@ -407,12 +407,12 @@ nav ul li:active {
 }
 .scroll-message {
     position: absolute;
-    left: 160px;
+    left: 60px;
     color: #FFFFFF;
     top: 23px
 }
 .scroll-message:after {
-    content: url("scroll-arrow.png");
+    content: url("../base/scroll.png");
     position: relative;
     top: 75px;
     left: 10px;
